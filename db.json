@@ -1,0 +1,54 @@
+{
+  "pilotos": [
+    {
+      "nombreyapellido": "Guido Aquino",
+      "IDjuego": "SSR_Guido9327",
+      "plataforma": "PS4",
+      "escuderia": "Ferrari",
+      "puntos": "150"
+    },
+    {
+      "nombreyapellido": "Juan Musi",
+      "IDjuego": "Juan Musi",
+      "plataforma": "PC",
+      "escuderia": "Red Bull",
+      "puntos": "130"
+    },
+    {
+      "nombreyapellido": "Juan Galdos",
+      "IDjuego": "JuanGaldos",
+      "plataforma": "PC",
+      "escuderia": "McLaren",
+      "puntos": "123"
+    },
+    {
+      "nombreyapellido": "Gabriel Ottonello",
+      "IDjuego": "SSR-Gabi",
+      "plataforma": "PS4",
+      "escuderia": "Alpine",
+      "puntos": "100"
+    }
+  ],
+
+  "categorias": [
+    {
+      "id":"1",
+      "categoria": "Liga A",
+      "ayudas": "Sin ayudas",
+      "dia": "Lunes",
+      "horario": "20:30",
+      "carrera": "50%",
+      "qualy": "18min"
+    },
+
+    {
+      "id":"2",
+      "categoria": "Liga B",
+      "ayudas": "Traccion media, ABS",
+      "dia": "Jueves",
+      "horario": "20:30",
+      "carrera": "50%",
+      "qualy": "18min"
+    }
+  ]
+}

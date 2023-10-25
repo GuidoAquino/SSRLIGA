@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "letra-principal";
+  src: url(../../public/fonts/Formula1-Display-SemiBold.ttf);
+ 
+}
+
+body::-webkit-scrollbar {
+  width: 12px;             
+}
+
+body::-webkit-scrollbar-track {
+  background: #3d3d3d;  
+
+}
+
+body::-webkit-scrollbar-thumb {
+  background: linear-gradient(#684e1b,#f7c562) ; 
+
+}
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "letra-principal";
+  
+}
+
+.bgcategories{
+  background-image: url("../../public/assets//img//categoriesfondo.png");
+}
+
+.transition{
+  transition: all .3s ease;
+}
+
+.bginscripcion{
+  background-image: url("../../public/assets/img/Inscripcionfondo.jpg");
+}
+
+input::placeholder{
+  color:white
+}
+
+
+
+.formoption{
+  color: white;
+  
+}
+
+.bggris{
+  background-color: rgb(23, 23, 23);
+}
+
+.colorrojo{
+  color: #ca1b1e;
+}
+
+.bgposiciones{
+  background-image: url('../../public/assets/img/fondoposiciones.jpeg');
+}
+
+.bgcalendario{
+  background-image: url('https://static.vecteezy.com/system/resources/previews/001/270/610/non_2x/red-and-black-gradient-colored-texture-vector.jpg');
+}
+
+input{
+  color:white
+}
