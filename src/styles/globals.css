@@ -28,6 +28,7 @@ body::-webkit-scrollbar-thumb {
   margin: 0;
   box-sizing: border-box;
   font-family: "letra-principal";
+  scroll-behavior: smooth;
   
 }
 
@@ -47,6 +48,11 @@ input::placeholder{
   color:white
 }
 
+table img{
+  width: 15px;
+  margin: 1px;
+  padding: 0;
+}
 
 
 .formoption{

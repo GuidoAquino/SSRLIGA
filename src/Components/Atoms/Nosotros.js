@@ -9,11 +9,11 @@ export const Nosotros = () => {
       <section className="nosotros w-[100%] p-5 md:h-[50] flex flex-col md:flex-row items-center justify-center bg-gradient-to-t from-[#000000] to-[#373737]">
         <div className="flex flex-col text-left w-[100%] md:w-[50%] justify-center items-center ml-4">
           <h2 className=" text-3xl md:text-6xl mb-4 text-white">
-            LAF Argentina
+            Superliga Sim Racing
           </h2>
           <p className="text-[white]">
-            LAF Argentina es una liga de videojuegos dedicada a la F1 2023 que
-            reúne a apasionados de la Fórmula 1 en PC, PlayStation y Xbox.{" "}
+            SSR es una liga de videojuegos dedicada al F1 2023 que
+            reúne a apasionados de la Fórmula 1 PS4 y PS5
             <br />
             <br />
             Esta comunidad diversa de pilotos, desde principiantes hasta
@@ -21,7 +21,7 @@ export const Nosotros = () => {
             principales.
             <br />
             <br />
-            LAF Argentina promueve la deportividad y el respeto mutuo entre sus
+            SSR promueve la deportividad y el respeto mutuo entre sus
             miembros y organiza eventos regulares, carreras y torneos para poner
             a prueba las habilidades de los pilotos.
             <br />
@@ -32,7 +32,7 @@ export const Nosotros = () => {
             <br />
             <br />
             Si eres un entusiasta de la Fórmula 1 y los videojuegos, ¡únete a
-            LAF Argentina para experimentar emocionantes carreras!
+            SSR para experimentar emocionantes carreras!
           </p>
         </div>
         <div className="w-[100%] md:w-[50%] flex justify-center items-center ">

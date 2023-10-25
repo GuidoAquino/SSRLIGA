@@ -27,7 +27,7 @@ export default function Home() {
       <Tablaposiciones />
       <FechasCalendario/>
       <section
-        id="inscripcion "
+        id="inscripcion"
         className="h-[100vh] w-full flex  justify-center items-center bginscripcion bg-cover object-cover bg-no-repeat bg-center"
       >
         <FormularioInscripcion />

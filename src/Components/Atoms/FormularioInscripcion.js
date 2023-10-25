@@ -7,7 +7,7 @@ const FormularioInscripcion = () => {
   return (
     <>
     
-    <div  className="w-[80%] md:w-[40%] h-[60%] md:h-[60%] bggris text-center flex flex-col rounded-lg" >
+    <div className="w-[80%] md:w-[40%] h-[60%] md:h-[60%] bggris text-center flex flex-col rounded-lg" >
       <form
         action=""
         
@@ -79,6 +79,7 @@ const FormularioInscripcion = () => {
         </div>
       </form>
       </div>
+     
     </>
   );
 };

@@ -5,30 +5,221 @@
       "IDjuego": "SSR_Guido9327",
       "plataforma": "PS4",
       "escuderia": "Ferrari",
-      "puntos": "150"
+      "escuderiaimg":"https://i.pinimg.com/originals/14/eb/e3/14ebe3da0146023a6038c176e6a7a9c6.png",
+      "puntos": "150",
+      "liga": "PRO", 
+      "temporada":10
     },
     {
       "nombreyapellido": "Juan Musi",
       "IDjuego": "Juan Musi",
       "plataforma": "PC",
       "escuderia": "Red Bull",
-      "puntos": "130"
+      "escuderiaimg":"https://brandlogos.net/wp-content/uploads/2022/05/red_bull_racing-logo-brandlogos.net_.png",
+      "puntos": "130",
+      "liga": "PRO", 
+      "temporada":10
     },
     {
       "nombreyapellido": "Juan Galdos",
       "IDjuego": "JuanGaldos",
       "plataforma": "PC",
+      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4140.png",
       "escuderia": "McLaren",
-      "puntos": "123"
+      "puntos": "123",
+      "liga": "PRO", 
+      "temporada":10
     },
     {
       "nombreyapellido": "Gabriel Ottonello",
       "IDjuego": "SSR-Gabi",
       "plataforma": "PS4",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Logoalpine2017.png",
       "escuderia": "Alpine",
-      "puntos": "100"
+      "puntos": "100",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Guido Aquino",
+      "IDjuego": "SSR_Guido9327",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_Williams_F1.png/317px-Logo_Williams_F1.png",
+      "escuderia": "Williams",
+      "puntos": "150",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Juan Musi",
+      "IDjuego": "Juan Musi",
+      "plataforma": "PC",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mercedes-Benz_Star.svg/2048px-Mercedes-Benz_Star.svg.png",
+      "escuderia": "Mercedes",
+      "puntos": "130",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Juan Galdos",
+      "IDjuego": "JuanGaldos",
+      "plataforma": "PC",
+      "escuderiaimg":"https://logodownload.org/wp-content/uploads/2022/03/alphatauri-logo-0.png",
+      "escuderia": "Alpha Tauri",
+      "puntos": "123",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Gabriel Ottonello",
+      "IDjuego": "SSR-Gabi",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Haas_F1.png",
+      "escuderia": "Haas",
+      "puntos": "100",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Guido Aquino",
+      "IDjuego": "SSR_Guido9327",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
+      "escuderia": "Alfa Romeo",
+      "puntos": "150",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Juan Musi",
+      "IDjuego": "Juan Musi",
+      "plataforma": "PC",
+      "escuderiaimg":"https://www.carlogos.org/car-logos/aston-martin-logo.png",
+      "escuderia": "Aston Martin",
+      "puntos": "130",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Guido Aquino",
+      "IDjuego": "SSR_Guido9327",
+      "plataforma": "PS4",
+      "escuderia": "Ferrari",
+      "escuderiaimg":"https://i.pinimg.com/originals/14/eb/e3/14ebe3da0146023a6038c176e6a7a9c6.png",
+      "puntos": "250",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Juan Musi",
+      "IDjuego": "Juan Musi",
+      "plataforma": "PC",
+      "escuderia": "Red Bull",
+      "escuderiaimg":"https://brandlogos.net/wp-content/uploads/2022/05/red_bull_racing-logo-brandlogos.net_.png",
+      "puntos": "130",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Juan Galdos",
+      "IDjuego": "JuanGaldos",
+      "plataforma": "PC",
+      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4140.png",
+      "escuderia": "McLaren",
+      "puntos": "123",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Gabriel Ottonello",
+      "IDjuego": "SSR-Gabi",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Logoalpine2017.png",
+      "escuderia": "Alpine",
+      "puntos": "100",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Guido Aquino",
+      "IDjuego": "SSR_Guido9327",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_Williams_F1.png/317px-Logo_Williams_F1.png",
+      "escuderia": "Williams",
+      "puntos": "5",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Juan Musi",
+      "IDjuego": "Juan Musi",
+      "plataforma": "PC",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mercedes-Benz_Star.svg/2048px-Mercedes-Benz_Star.svg.png",
+      "escuderia": "Mercedes",
+      "puntos": "13",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Juan Galdos",
+      "IDjuego": "JuanGaldos",
+      "plataforma": "PC",
+      "escuderiaimg":"https://logodownload.org/wp-content/uploads/2022/03/alphatauri-logo-0.png",
+      "escuderia": "Alpha Tauri",
+      "puntos": "123",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Gabriel Ottonello",
+      "IDjuego": "SSR-Gabi",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Haas_F1.png",
+      "escuderia": "Haas",
+      "puntos": "10",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Guido Aquino",
+      "IDjuego": "SSR_Guido9327",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
+      "escuderia": "Alfa Romeo",
+      "puntos": "300",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Juan Musi",
+      "IDjuego": "Juan Musi",
+      "plataforma": "PC",
+      "escuderiaimg":"https://www.carlogos.org/car-logos/aston-martin-logo.png",
+      "escuderia": "Aston Martin",
+      "puntos": "130",
+      "liga": "PRO", 
+      "temporada":10
     }
-  ],
+   
+     ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   "categorias": [
     {

@@ -1,6 +1,13 @@
 import React from "react";
+import data from "../../../db.json"
+import Image from "next/image";
 
 const Tablaposiciones = () => {
+
+  const pilotos = [...data.pilotos]; 
+
+ 
+  pilotos.sort((a, b) => b.puntos - a.puntos);
   return (
     <>
     <div id='posiciones'>
@@ -37,126 +44,14 @@ const Tablaposiciones = () => {
                 </thead>
               
               <tbody className="w-[50%] h-[50px] border-collapse ">
-                <tr className="text-center border-b-[1px] border-[#848484]  text-[16px]">
-                  <td>1</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>2</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>3</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>4</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>5</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>6</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>7</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>8</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>9</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>10</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>11</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>12</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>13</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>14</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>15</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>16</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>17</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>18</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>19</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
-                <tr className="text-center border-b-[1px] border-[#848484] text-[16px] ">
-                  <td>20</td>
-                  <td>Juanito</td>
-                  <td>Ferrari</td>
-                  <td>150</td>
-                </tr>
+                <tr className="text-center border-b-[1px] border-[#848484]  text-[16px]"/>
+                {pilotos.map((piloto, index) => (
+                <tr key={index} className="text-center border-b-[1px] border-[#848484] text-[16px]">
+                  <td>{index + 1}</td>
+                  <td>{piloto.nombreyapellido}</td>
+                  <td className="flex justify-center items-center "><img className="mr-2" src={piloto.escuderiaimg}/> {piloto.escuderia}</td>
+                  <td>{piloto.puntos}</td>
+                </tr>  ))}               
               </tbody>
              
             </table>
