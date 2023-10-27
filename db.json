@@ -1,22 +1,140 @@
 {
   "pilotos": [
     {
-      "nombreyapellido": "Guido Aquino",
-      "IDjuego": "SSR_Guido9327",
+      "nombreyapellido": "Juan",
+      "IDjuego": "LATAM_JUAN66",
       "plataforma": "PS4",
       "escuderia": "Ferrari",
       "escuderiaimg":"https://i.pinimg.com/originals/14/eb/e3/14ebe3da0146023a6038c176e6a7a9c6.png",
-      "puntos": "150",
+      "puntos": "0",
       "liga": "PRO", 
       "temporada":10
     },
     {
-      "nombreyapellido": "Juan Musi",
-      "IDjuego": "Juan Musi",
+      "nombreyapellido": "LATAM_Frimbz",
+      "IDjuego": "LATAM_Frimbz",
+      "plataforma": "PS4",
+      "escuderia": "Ferrari",
+      "escuderiaimg":"https://i.pinimg.com/originals/14/eb/e3/14ebe3da0146023a6038c176e6a7a9c6.png",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "nicoPRO_JSQ",
+      "IDjuego": "nicoPRO_JSQ",
       "plataforma": "PC",
       "escuderia": "Red Bull",
       "escuderiaimg":"https://brandlogos.net/wp-content/uploads/2022/05/red_bull_racing-logo-brandlogos.net_.png",
-      "puntos": "130",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "VENOMscorpio_JSQ",
+      "IDjuego": "VENOMscorpio_JSQ",
+      "plataforma": "PC",
+      "escuderia": "Red Bull",
+      "escuderiaimg":"https://brandlogos.net/wp-content/uploads/2022/05/red_bull_racing-logo-brandlogos.net_.png",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+   
+   
+    
+    {
+      "nombreyapellido": "XxAlexX_GAMER",
+      "IDjuego": "XxAlexX_GAMER",
+      "plataforma": "PC",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mercedes-Benz_Star.svg/2048px-Mercedes-Benz_Star.svg.png",
+      "escuderia": "Mercedes",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "f3R_s7_",
+      "IDjuego": "f3R_s7_",
+      "plataforma": "PC",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mercedes-Benz_Star.svg/2048px-Mercedes-Benz_Star.svg.png",
+      "escuderia": "Mercedes",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    
+    {
+      "nombreyapellido": "SLA_Retro",
+      "IDjuego": "SLA_Retro",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Haas_F1.png",
+      "escuderia": "Haas",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "FC_Danger_F1",
+      "IDjuego": "FC_Danger_F1",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Haas_F1.png",
+      "escuderia": "Haas",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "Luciano_M12_JSQ",
+      "IDjuego": "Luciano_M12_JSQ",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
+      "escuderia": "Alfa Romeo",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    
+   
+    {
+      "nombreyapellido": "LH_savaresse_Jr",
+      "IDjuego": "LH_savaresse_Jr",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
+      "escuderia": "Alfa Romeo",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+   
+    {
+      "nombreyapellido": "Juan Ildro",
+      "IDjuego": "SLA_KHammet",
+      "plataforma": "PC",
+      "escuderiaimg":"https://www.carlogos.org/car-logos/aston-martin-logo.png",
+      "escuderia": "Aston Martin",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+    {
+      "nombreyapellido": "ARS_MAUBO",
+      "IDjuego": "ARS_MAUBO",
+      "plataforma": "PC",
+      "escuderiaimg":"https://www.carlogos.org/car-logos/aston-martin-logo.png",
+      "escuderia": "Aston Martin",
+      "puntos": "0",
+      "liga": "PRO", 
+      "temporada":10
+    },
+   
+    {
+      "nombreyapellido": "Juan Galdos",
+      "IDjuego": "JuanGaldos",
+      "plataforma": "PC",
+      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4140.png",
+      "escuderia": "McLaren",
+      "puntos": "0",
       "liga": "PRO", 
       "temporada":10
     },
@@ -26,220 +144,257 @@
       "plataforma": "PC",
       "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4140.png",
       "escuderia": "McLaren",
-      "puntos": "123",
+      "puntos": "0",
       "liga": "PRO", 
       "temporada":10
     },
     {
-      "nombreyapellido": "Gabriel Ottonello",
-      "IDjuego": "SSR-Gabi",
+      "nombreyapellido": "NicoHans",
+      "IDjuego": "NicoHans",
       "plataforma": "PS4",
       "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Logoalpine2017.png",
       "escuderia": "Alpine",
-      "puntos": "100",
+      "puntos": "0",
       "liga": "PRO", 
       "temporada":10
     },
     {
-      "nombreyapellido": "Guido Aquino",
-      "IDjuego": "SSR_Guido9327",
-      "plataforma": "PS4",
-      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_Williams_F1.png/317px-Logo_Williams_F1.png",
-      "escuderia": "Williams",
-      "puntos": "150",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Juan Musi",
-      "IDjuego": "Juan Musi",
-      "plataforma": "PC",
-      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mercedes-Benz_Star.svg/2048px-Mercedes-Benz_Star.svg.png",
-      "escuderia": "Mercedes",
-      "puntos": "130",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Juan Galdos",
-      "IDjuego": "JuanGaldos",
-      "plataforma": "PC",
-      "escuderiaimg":"https://logodownload.org/wp-content/uploads/2022/03/alphatauri-logo-0.png",
-      "escuderia": "Alpha Tauri",
-      "puntos": "123",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Gabriel Ottonello",
-      "IDjuego": "SSR-Gabi",
-      "plataforma": "PS4",
-      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Haas_F1.png",
-      "escuderia": "Haas",
-      "puntos": "100",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Guido Aquino",
-      "IDjuego": "SSR_Guido9327",
-      "plataforma": "PS4",
-      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
-      "escuderia": "Alfa Romeo",
-      "puntos": "550",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Juan Musi",
-      "IDjuego": "Juan Musi",
-      "plataforma": "PC",
-      "escuderiaimg":"https://www.carlogos.org/car-logos/aston-martin-logo.png",
-      "escuderia": "Aston Martin",
-      "puntos": "130",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Guido Aquino",
-      "IDjuego": "SSR_Guido9327",
-      "plataforma": "PS4",
-      "escuderia": "Ferrari",
-      "escuderiaimg":"https://i.pinimg.com/originals/14/eb/e3/14ebe3da0146023a6038c176e6a7a9c6.png",
-      "puntos": "250",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Juan Musi",
-      "IDjuego": "Juan Musi",
-      "plataforma": "PC",
-      "escuderia": "Red Bull",
-      "escuderiaimg":"https://brandlogos.net/wp-content/uploads/2022/05/red_bull_racing-logo-brandlogos.net_.png",
-      "puntos": "130",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Juan Galdos",
-      "IDjuego": "JuanGaldos",
-      "plataforma": "PC",
-      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4140.png",
-      "escuderia": "McLaren",
-      "puntos": "123",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Gabriel Ottonello",
-      "IDjuego": "SSR-Gabi",
+      "nombreyapellido": "gtwars579",
+      "IDjuego": "gtwars579",
       "plataforma": "PS4",
       "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Logoalpine2017.png",
       "escuderia": "Alpine",
-      "puntos": "100",
+      "puntos": "0",
       "liga": "PRO", 
       "temporada":10
     },
     {
-      "nombreyapellido": "Guido Aquino",
-      "IDjuego": "SSR_Guido9327",
+      "nombreyapellido": "Luis Huayamave",
+      "IDjuego": "SKY_Huayamave",
       "plataforma": "PS4",
       "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_Williams_F1.png/317px-Logo_Williams_F1.png",
       "escuderia": "Williams",
-      "puntos": "5",
+      "puntos": "0",
       "liga": "PRO", 
       "temporada":10
     },
     {
-      "nombreyapellido": "Juan Musi",
-      "IDjuego": "Juan Musi",
-      "plataforma": "PC",
-      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mercedes-Benz_Star.svg/2048px-Mercedes-Benz_Star.svg.png",
-      "escuderia": "Mercedes",
-      "puntos": "13",
+      "nombreyapellido": "Luis Burgos",
+      "IDjuego": "NSRL_BanzStex",
+      "plataforma": "PS4",
+      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_Williams_F1.png/317px-Logo_Williams_F1.png",
+      "escuderia": "Williams",
+      "puntos": "0",
       "liga": "PRO", 
       "temporada":10
     },
+    
     {
-      "nombreyapellido": "Juan Galdos",
-      "IDjuego": "JuanGaldos",
+      "nombreyapellido": "CVA_RodriSivori",
+      "IDjuego": "CVA_RodriSivori",
       "plataforma": "PC",
       "escuderiaimg":"https://logodownload.org/wp-content/uploads/2022/03/alphatauri-logo-0.png",
       "escuderia": "Alpha Tauri",
-      "puntos": "123",
+      "puntos": "0",
       "liga": "PRO", 
       "temporada":10
     },
     {
-      "nombreyapellido": "Gabriel Ottonello",
-      "IDjuego": "SSR-Gabi",
-      "plataforma": "PS4",
-      "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Haas_F1.png",
-      "escuderia": "Haas",
-      "puntos": "10",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Guido Aquino",
-      "IDjuego": "SSR_Guido9327",
-      "plataforma": "PS4",
-      "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
-      "escuderia": "Alfa Romeo",
-      "puntos": "300",
-      "liga": "PRO", 
-      "temporada":10
-    },
-    {
-      "nombreyapellido": "Juan Musi",
-      "IDjuego": "Juan Musi",
+      "nombreyapellido": "porche-cabal",
+      "IDjuego": "porche-cabal",
       "plataforma": "PC",
-      "escuderiaimg":"https://www.carlogos.org/car-logos/aston-martin-logo.png",
-      "escuderia": "Aston Martin",
-      "puntos": "130",
+      "escuderiaimg":"https://logodownload.org/wp-content/uploads/2022/03/alphatauri-logo-0.png",
+      "escuderia": "Alpha Tauri",
+      "puntos": "0",
       "liga": "PRO", 
       "temporada":10
     }
    
+  
+   
      ],
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  "categorias": [
+     "escuderias": [
+      {
+        
+        "escuderia": "Ferrari",
+        "escuderiaimg":"https://i.pinimg.com/originals/14/eb/e3/14ebe3da0146023a6038c176e6a7a9c6.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      },
+      {
+        
+        "escuderia": "Mercedes",
+        "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mercedes-Benz_Star.svg/2048px-Mercedes-Benz_Star.svg.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      },
+      {
+        
+        "escuderia": "Red Bull",
+        "escuderiaimg":"https://brandlogos.net/wp-content/uploads/2022/05/red_bull_racing-logo-brandlogos.net_.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      },
+      {
+        
+        "escuderia": "Alfa Romeo",
+        "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      },
+      {
+        
+        "escuderia": "Alpha Tauri",
+        "escuderiaimg":"https://logodownload.org/wp-content/uploads/2022/03/alphatauri-logo-0.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      },
+      {
+        
+        "escuderia": "Alpine",
+        "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Logoalpine2017.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      },
+      {
+        
+        "escuderia": "Aston Martin",
+        "escuderiaimg":"https://www.carlogos.org/car-logos/aston-martin-logo.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      },
+      {
+        
+        "escuderia": "Haas",
+        "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Haas_F1.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      },
+      {
+        
+        "escuderia": "McLaren",
+        "escuderiaimg":"https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4140.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      },
+      {
+        
+        "escuderia": "Williams",
+        "escuderiaimg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_Williams_F1.png/317px-Logo_Williams_F1.png",
+        "puntos": "0",
+        "liga": "PRO", 
+        "temporada":10
+      }
+      
+     
+       ],
+  "calendario": [
     {
       "id":"1",
-      "categoria": "Liga A",
-      "ayudas": "Sin ayudas",
-      "dia": "Lunes",
-      "horario": "20:30",
-      "carrera": "50%",
-      "qualy": "18min"
-    },
-
-    {
+      "circuito": "Gran Premio de Belgica",
+      "bandera": "https://img.freepik.com/fotos-premium/bandera-belgica-textura-tela-ondeando_7594-73.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "27/10",
+      "sprint": "NO"
+     },
+     {
       "id":"2",
-      "categoria": "Liga B",
-      "ayudas": "Traccion media, ABS",
-      "dia": "Jueves",
-      "horario": "20:30",
-      "carrera": "50%",
-      "qualy": "18min"
-    }
+      "circuito": "Gran Premio de Imola",
+      "bandera": "https://www.lifeder.com/wp-content/uploads/2019/02/bandera-de-Italia.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "03/11",
+      "sprint": "NO"
+     },
+     {
+      "id":"3",
+      "circuito": "Gran Premio de México",
+      "bandera": "https://t1.uc.ltmcdn.com/es/posts/6/1/8/significado_de_la_bandera_y_el_escudo_de_mexico_44816_orig.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "10/11",
+      "sprint": "NO"
+     },
+     {
+      "id":"4",
+      "circuito": "Gran Premio de Austria",
+      "bandera": "https://img.freepik.com/vector-premium/bandera-austria-soplando-viento-parte-serie-austria-ondeando-bandera_126712-234.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "17/11",
+      "sprint": "SI "
+     },
+     {
+       "id":"5",
+       "circuito": "Gran Premio de Qatar",
+       "bandera": "https://www.eluniversal.com.mx/resizer/FP0W27HcFDbsmjzzbZ6zmMGu6r0=/1100x666/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/G2VLASO5FBDVXB5P7EISQPOB3U.jpg",
+       "horario": "22:15 Arg",
+       "fecha": "24/11",
+       "sprint": "NO"
+      },
+      {
+       "id":"6",
+       "circuito": "Gran Premio de Arabia Saudi",
+       "bandera": "https://img.freepik.com/vector-premium/bandera-arabia-saudita_230313-125.jpg",
+       "horario": "22:15 Arg",
+       "fecha": "01/12",
+       "sprint": "NO"
+      },
+     {
+      "id":"7",
+      "circuito": "Gran Premio de Australia",
+      "bandera": "https://img.freepik.com/vector-premium/diseno-bandera-australia-ondeando-bandera-australiana-hecha-tela-satinada-o-seda-ilustracion-vectorial_191567-673.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "08/12",
+      "sprint": "SI"
+     },
+     {
+      "id":"8",
+      "circuito": "Gran Premio de Singapur",
+      "bandera": "https://cdn.pixabay.com/photo/2016/06/15/23/24/singapore-1460154_1280.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "15/12",
+      "sprint": "NO"
+     },
+     {
+      "id":"9",
+      "circuito": "Gran Premio de Paises Bajos",
+      "bandera": "https://static.vecteezy.com/system/resources/previews/001/228/894/non_2x/netherlands-3d-flag-vector.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "22/12",
+      "sprint": "NO"
+     },
+     {
+      "id":"10",
+      "circuito": "Gran Premio de Japón",
+      "bandera": "https://img.freepik.com/vector-premium/vector-3d-bandera-japon-simbolo-nacional-japones_8071-21864.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "29/12",
+      "sprint": "SI"
+     },
+     {
+      "id":"11",
+      "circuito": "Gran Premio de China",
+      "bandera": "https://img.freepik.com/fotos-premium/concepto-china-bandera-republica-popular-china_158023-1113.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "05/01",
+      "sprint": "NO"
+     },
+     {
+      "id":"12",
+      "circuito": "Gran Premio de Brasil",
+      "bandera": "https://t2.uc.ltmcdn.com/es/posts/1/2/5/significado_de_la_bandera_y_escudo_de_brasil_49521_orig.jpg",
+      "horario": "22:15 Arg",
+      "fecha": "12/01",
+      "sprint": "NO"
+     }
+
+    
   ]
 }

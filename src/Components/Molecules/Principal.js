@@ -20,12 +20,12 @@ const Principal = () => {
             <h4 className="text-white text-3xl sm:text-6xl md:text-7xl  pl-3 mt-3">
               Bievenidos a
             </h4>
-            <h1 className="text-white text-2xl sm:text-6xl md:text-7xl pl-3 mt-3">
+            <h1 className="text-white text-2xl  md:text-7xl pl-3 mt-3">
               Superliga Sim Racing
             </h1>
             <Link
               href="/inscripcion"
-              className="text-white text-2xl sm:text-6xl md:text-xl bg-gradient-to-t from-[#000000] to-[#373737] rounded-lg p-2 ml-3 mt-3"
+              className="text-white text-2xl sm:text-4xl bg-gradient-to-t from-[#000000] to-[#373737] rounded-lg p-2 ml-3 mt-3"
             >
               <span>Inscribite </span>
               

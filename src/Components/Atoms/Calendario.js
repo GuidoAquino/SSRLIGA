@@ -1,22 +1,30 @@
+import data from "../../../db.json"
 import Image from "next/image";
 import arabia from "../../../public/assets/img/arabia-saudita.png";
 
 import React from "react";
 
 const Calendario = () => {
+
+  const calendario = [...data.calendario];
   return (
     <>
-      <div className="w-[320px] h-[100px] border-2 border-black flex flex-row bg-white/10">
-        <div className="flex flex-row justify-center items-center">
-          <span className="m-[10px]">1</span>
-          <Image src={arabia} alt="Arabia" className="h-[80px] w-[80px] mr-[10px]"></Image>
+    {calendario.map((fecha, index) => (
+    
+      <div key={index} className="w-[180px] h-[300px] flex-cols flex-wrap items-center justify-center  border-2 border-white flex rounded-lg" >
+        <div className="flex  flex-cols flex-wrap items-center justify-center">
+          <span className="m-[10px] text-white  flex w-[50px]">R {index + 1}</span>
+          <img src={fecha.bandera} alt="" className="h-[70px] w-[70px] object-fit "/>
         </div>
-        <div className="flex flex-col justify-center items-start">
-          <h5 >GP Arabia Saudita</h5>
-          <span>Cat PRO 27-10 </span>
-          <span>22:15 Hs Arg </span>
+        <div className="flex flex-col justify-center items-center text-white rounded-lg">
+          <h5 className="text-white text-bold text-center"> {fecha.circuito}</h5>
+          <span>{fecha.fecha}</span>
+          <span>{fecha.horario} </span>
+          <span className="text-red-500 mb-2">Sprint {fecha.sprint} </span>
+          <span><a href="#" className='hover:text-[#ca1b1e] hover:border-b-2 hover:border-[#ca1b1e]  ' >Resultados GP</a></span>
         </div>
       </div>
+      ))}
     </>
   );
 };

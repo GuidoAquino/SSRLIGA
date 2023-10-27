@@ -25,10 +25,10 @@ const Nav = () => {
                   <Image
                     src={logo}
                     className="w-[70px] mr-1"
-                    alt="Logo LAF"
-                    title="Logo LAF"
+                    alt="Logo SSR"
+                    title="Logo SSR"
                   ></Image>
-                  Superliga Sim Racing
+                  <span className="hidden sm:flex">Superliga Sim Racing</span>
                 </Link>
               </div>
             </div>
@@ -73,11 +73,11 @@ const Nav = () => {
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
                     viewBox="0 0 24 24"
-                    stroke="#f7c562"
+                    stroke="#ca1b1e"
                   >
                     <path
-                      strokeLinecap=" #f7c562 round "
-                      strokeLinejoin=" #f7c562 round"
+                      strokeLinecap=" #ca1b1e round "
+                      strokeLinejoin=" #ca1b1e round"
                       strokeWidth={2}
                       d="M6 18L18 6M6 6l12 12"
                     />
@@ -88,7 +88,7 @@ const Nav = () => {
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
                     viewBox="0 0 24 24"
-                    stroke="#f7c562"
+                    stroke="#ca1b1e"
                   >
                     <path
                       strokeLinecap="round"

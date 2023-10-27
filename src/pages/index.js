@@ -28,7 +28,7 @@ export default function Home() {
       <FechasCalendario/>
       <section
         id="inscripcion"
-        className="h-[100vh] w-full flex  justify-center items-center bginscripcion bg-cover object-cover bg-no-repeat bg-center"
+        className="h-[100vh] sm:h-[75vh] md:h-[50vh] w-full flex  justify-center items-center bginscripcion bg-cover object-cover bg-no-repeat bg-center"
       >
         <FormularioInscripcion />
       </section>

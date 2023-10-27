@@ -8,21 +8,11 @@ const FechasCalendario = () => {
   return (
     <>
        
-    <section className='h-[50vh]  flex flex-col justify-center items-center  bgcalendario  bg-no-repeat bg-cover bg-center'>
-    <h2 className='mb-5  text-3xl'>Calendario T13</h2>
-    <div className='gap-2 grid grid-rows-3 grid-cols-4 '>
+    <section className='h-auto py-8  flex flex-col justify-center items-center  bggris  bg-no-repeat bg-cover bg-center '>
+    <h2 className='mb-5  text-[16px] text-white sm:text-3xl'>Calendario T13</h2>
+    <div className='gap-2 grid grid-rows-12 grid-cols-1 md:grid-rows-4 md:grid-cols-3 lg:grid-rows-3 lg:grid-cols-4  p-auto flex-cols flex-wrap items-center justify-center  sm:grid-rows-6 sm:grid-cols-2 lg:grid-rows-2 lg:grid-cols-6'>
     <Calendario/>
-    <Calendario/>
-    <Calendario/>
-    <Calendario/>
-    <Calendario/>
-    <Calendario/>
-    <Calendario/>
-    <Calendario/>
-    <Calendario/>
-    <Calendario/>
-    <Calendario/>
-    <Calendario/>
+  
    
   
     
