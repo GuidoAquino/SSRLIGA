@@ -1,0 +1,15 @@
+{
+    "build":[
+        {
+            "src":"./index.js",
+            "use":"@vercerl/node"
+        }
+
+    ],
+    "router":[
+        {
+            "src":"/(./)",
+            "dest":"/"
+        }
+    ]
+}
