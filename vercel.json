@@ -5,11 +5,6 @@
             "use":"@vercerl/node"
         }
 
-    ],
-    "router":[
-        {
-            "src":"/(./)",
-            "dest":"/"
-        }
     ]
+   
 }
