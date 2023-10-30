@@ -1,8 +1,9 @@
 import data from "../../../db.json"
 import Image from "next/image";
-import arabia from "../../../public/assets/img/arabia-saudita.png";
-
 import React from "react";
+import { Modal } from "@mui/material";
+
+
 
 const Calendario = () => {
 
@@ -11,8 +12,8 @@ const Calendario = () => {
     <>
     {calendario.map((fecha, index) => (
     
-      <div key={index} className="w-[180px] h-[300px] flex-cols flex-wrap items-center justify-center  border-2 border-white flex rounded-lg" >
-        <div className="flex  flex-cols flex-wrap items-center justify-center">
+      <div  id="calendario" key={index} className="w-[180px] h-[300px] flex-cols flex-wrap items-center justify-center  border-2 border-white flex rounded-lg  "  >
+        <div className="flex  flex-cols flex-wrap items-center justify-center " >
           <span className="m-[10px] text-white  flex w-[50px]">R {index + 1}</span>
           <img src={fecha.bandera} alt="" className="h-[70px] w-[70px] object-fit "/>
         </div>
