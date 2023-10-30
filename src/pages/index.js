@@ -31,7 +31,7 @@ export default function Home() {
         id="inscripcion"
         className="h-[100vh] sm:h-[75vh] md:h-[50vh] w-full flex  justify-center items-center bginscripcion bg-cover object-cover bg-no-repeat bg-center bg-fixed"
       >
-        <FormularioInscripcion />
+      //  <FormularioInscripcion />
       </section>
       <Footer />
 
