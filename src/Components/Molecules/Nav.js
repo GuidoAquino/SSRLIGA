@@ -52,12 +52,12 @@ const Nav = () => {
                 >
                   Calendario
                 </Link>
-                // <Link
-                //   href="#inscripcion"
-                //   className="colorrojo hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white rounded-lg p-2"
-                // >
-                //   Inscripcion
-                // </Link>
+                 {/*<Link
+                  href="#inscripcion"
+                  className="colorrojo hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white rounded-lg p-2"
+                >
+                  Inscripcion
+                </Link>
                 
                 {/* <Link
                   href="/iniciarsesion"
