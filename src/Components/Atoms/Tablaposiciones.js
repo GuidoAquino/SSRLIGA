@@ -10,23 +10,16 @@ const Tablaposiciones = () => {
   };
 
   const pilotos = [...data.pilotos];
-  const escuderias = [...data.escuderias]
+  const escuderias = [...data.escuderias];
 
   pilotos.sort((a, b) => b.puntos - a.puntos);
-  escuderias.sort((a, b) => b.puntos - a.puntos);
+  escuderias.sort((a, b) => (b.piloto1puntos + b.piloto2puntos) - (a.piloto1puntos + a.piloto2puntos));
   return (
     <>
-      <div id="posiciones">
-        <div className="tablasposiciones  flex justify-center items-center w-[100%] md:h-[100vh] min-h-[120vh] py-[10px]  bgposiciones bg-cover bg-no-repeat ">
-          <div className="posiciones  text-white md:w-[80%] w-[95%] h-[80%]  mb-3 sm:grid grid-rows-12 sm:grid-cols-8  sm:gap-3  rounded-lg   ">
-            <div className="ligas  col-span-1 row-span-6  flex flex-col justify-start items-center bggris rounded-lg ">
-              <div className="divisiones flex flex-col justify-start items-center m-[10px] rounded-lg">
-                <h2 className="text-[#ca1b1e]  px-3 py-2 rounded-xl m-[10px] text-[10px] sm:text-[16px] cursor-pointer border-2 border-[#ca1b1e] hover:border-0 hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white">
-                  CAT. PRO
-                </h2>
-              </div>
-            </div>
-
+      <div id="posiciones ">
+        <div className="tablasposiciones  flex justify-center items-center w-[100%] md:h-auto min-h-[120vh] py-[10px]  bgposiciones bg-cover bg-no-repeat   ">
+          <div className="posiciones  text-white md:w-[80%] w-[95%] h-[80%]  mb-3 sm:grid grid-rows-12 sm:grid-cols-6  sm:gap-3  rounded-lg   ">
+           
             <div className="tablas text-[10px] sm:text-[16px] col-span-7 row-span-1 h-auto flex flex-cols flex-wrap  justify-center items-center sm:justify-start bggris rounded-lg ">
               <h2
                 className={`text-[#ca1b1e] px-3 py-2 rounded-xl m-[10px] cursor-pointer border-2 border-[#ca1b1e] hover:border-0 hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white ${
@@ -56,30 +49,74 @@ const Tablaposiciones = () => {
                   tablaActiva === "pilotos" ? "" : "hidden"
                 }`}
               >
-                <table className=" pilotos w-[100%] md:w-[90%] h-[80%] ">
-                  <thead>
+                <table className=" pilotos w-[200%] md:w-[90%] h-[80%] table-caption md:table mt-[10px] overflow-scroll">
+                  <thead >
                     <tr>
-                      <th className="text-center border-b-[1px] border-[#848484]  text-[9px] sm:text-[16px] bg-[#ca1b1e]">Posicion</th>
-                      <th className="text-center border-b-[1px] border-[#848484]  text-[9px] sm:text-[16px] bg-[#ca1b1e]">Piloto</th>
-                      <th className="text-center border-b-[1px] border-[#848484]  text-[9px] sm:text-[16px] bg-[#ca1b1e]">Escuderia</th>
-                      <th className="text-center border-b-[1px] border-[#848484]  text-[9px] sm:text-[16px] bg-[#ca1b1e]">Puntos</th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Posición
+                      </th>
+                      <th className="text-start border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Piloto
+                      </th>
+                      
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Puntos
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Podios
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Pole
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        V.R.
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      P.C.
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Eventos
+                      </th>
                     </tr>
                   </thead>
 
-                  <tbody className="w-[50%] h-[50px] border-collapse ">
-                    <tr className="text-center border-b-[1px] border-[#848484] flex flex-row justify-center items-center text-[8px] sm:text-[16px]" />
+                  <tbody className="w-[50%] h-[50px] border-collapse    ">
+                    <tr className="text-center  flex flex-row justify-center items-center text-[8px] sm:text-[16px]" />
                     {pilotos.map((piloto, index) => (
                       <tr
                         key={index}
                         className="text-center border-b-[1px] border-[#848484] text-[8px] sm:text-[16px]"
                       >
                         <td>{index + 1}</td>
-                        <td>{piloto.IDjuego}</td>
-                        <td className="flex justify-center items-center ">
-                          <img className="md:mr-2  flex justify-center items-center hidden sm:flex text-[10px]" src={piloto.escuderiaimg} />{" "}
-                          {piloto.escuderia}
+                        <td className="flex flex-row flex-wrap justify-start items-center ">
+                          <img
+                            className="md:mr-2 scale-[1.7]   flex-row justify-center items-center hidden md:flex "
+                            src={piloto.escuderiaimg } 
+                          />
+                          <div
+                            className="flex
+                        flex-col justify-center items-start text-[10px] sm:text-[16px]"
+                          >
+                            {piloto.IDjuego} <br />{" "}
+                            <span className="text-[10px] p-0 m-0">
+                              {piloto.escuderia}
+                            </span>
+                          </div>
                         </td>
+
+                        <td className="flex justify-center items-center "></td>
                         <td>{piloto.puntos}</td>
+                        <td >
+                        
+                       <span className="text-yellow-300 mr-1 border-2 border-stone-600 px-2 m-2 h-full ">{piloto.primeraposicion}</span>
+                       <span className="text-stone-300 mr-1 border-2 border-stone-600 px-2 m-2 h-full">{piloto.segundaposicion}</span>
+                       <span className="text-yellow-600 mr-1 border-2 border-stone-600 px-2 m-2 h-full">{piloto.terceraposicion}</span>
+                        
+                        </td>
+                        <td><span className="text-yellow-white mr-1 border-2 border-stone-600 px-2  h-full">{piloto.pole}</span></td>
+                        <td><span className="text-violet-500 mr-1 border-2 border-stone-600 px-2  h-full">{piloto.vueltarapida}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{piloto.puntoscarnet}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{piloto.eventos}</span></td>
                       </tr>
                     ))}
                   </tbody>
@@ -91,38 +128,53 @@ const Tablaposiciones = () => {
                   tablaActiva === "constructores" ? "" : "hidden"
                 }`}
               >
-                <table className=" constructores w-[90%] h-[80%] border-collapse ">
+                <table className=" constructores w-[200%] md:w-[90%] h-[80%] table-caption md:table mt-[10px] overflow-scroll">
                   <thead>
-                    <tr >
-                      <th className="text-center border-b-[1px] border-[#848484] text-[16px] bg-[#ca1b1e]">Posicion</th>
-                      <th className="text-center border-b-[1px] border-[#848484] text-[16px] bg-[#ca1b1e]">Escuderia</th>
-                      <th className="text-center border-b-[1px] border-[#848484] text-[16px] bg-[#ca1b1e]">Puntos</th>
+                    <tr>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Posición
+                      </th>
+                      <th className="text-start pl-1 border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Escuderia
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Puntos
+                      </th>
                     </tr>
                   </thead>
 
-                  <tbody className="w-[50%] h-[50px] border-collapse ">
-
-                  <tr className="text-center border-b-[1px] border-[#848484]  text-[8px] sm:text-[16px]" />
-                    {escuderias.map((escuderia, index) => (
+                  <tbody className="w-[50%] h-[50px] border-collapse    ">
+                    <tr className="text-center  flex flex-row justify-center items-center text-[8px] sm:text-[16px]" />
+                    {escuderias.map((escuderias, index) => (
                       <tr
                         key={index}
                         className="text-center border-b-[1px] border-[#848484] text-[8px] sm:text-[16px]"
                       >
                         <td>{index + 1}</td>
+                        <td className="flex flex-row flex-wrap justify-start items-center ">
+                          <img
+                            className="md:mr-2 scale-[1.7]   flex-row justify-center items-center hidden md:flex "
+                            src={escuderias.escuderiaimg } 
+                          />
+                          <div
+                            className="flex
+                        flex-col justify-center items-start text-[10px] sm:text-[16px]"
+                          >
+                            {escuderias.escuderia} <br />{" "}
+                            <span className="text-[8px] sm:text-[10px] p-0 m-0">
+                              {escuderias.piloto1} / {escuderias.piloto2}
+                            </span>
+                          </div>
+                        </td>
+
+                        <td className="flex justify-center items-center "></td>
+                        <td><span className="text-[8px] sm:text-[16px]">{escuderias.piloto1puntos + escuderias.piloto2puntos}</span> </td>
                         
-                        <td className="flex justify-center items-center ">
-                          <img className="md:mr-2  flex justify-center items-center hidden sm:flex text-[10px]" src={escuderia.escuderiaimg} />{" "}
-                        {escuderia.escuderia}
-                         </td>
-                        <td>{escuderia.puntos}</td>
                       </tr>
-                      ))}
-
-
-                  
-                    
+                    ))}
                   </tbody>
                 </table>
+                
               </div>
             </div>
           </div>
