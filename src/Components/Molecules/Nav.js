@@ -46,19 +46,25 @@ const Nav = () => {
                 >
                   Posiciones
                 </Link>
-
+                <Link
+                  href="/#calendario"
+                  className="colorrojo hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white rounded-lg p-2"
+                >
+                  Calendario
+                </Link>
                 <Link
                   href="#inscripcion"
                   className="colorrojo hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white rounded-lg p-2"
                 >
                   Inscripcion
                 </Link>
-                <Link
+                
+                {/* <Link
                   href="/iniciarsesion"
                   className="colorrojo hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white rounded-lg p-2"
                 >
                   Iniciar Sesion
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="md:hidden flex items-center">
@@ -117,19 +123,25 @@ const Nav = () => {
                 >
                   Posiciones
                 </Link>
-
+                <Link
+                  href="#calendario"
+                  className="colorrojo block hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white rounded-lg p-2"
+                >
+                  Calendario
+                </Link>
                 <Link
                   href="#inscripcion"
                   className="colorrojo block hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white rounded-lg p-2"
                 >
                   Inscripcion
                 </Link>
-                <Link
+                
+                {/* <Link
                   href="/iniciarsesion"
                   className="colorrojo block hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white rounded-lg p-2"
                 >
                   Iniciar Sesion
-                </Link>
+                </Link> */}
             </div>
           </div>
         )}
