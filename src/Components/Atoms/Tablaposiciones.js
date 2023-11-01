@@ -97,7 +97,7 @@ const Tablaposiciones = () => {
                             className="flex
                         flex-col justify-center items-start text-[10px] sm:text-[16px]"
                           >
-                            <div className="flex flex-row justify-center items-center "> {piloto.IDjuego}  <img src={piloto.nacionalidad} alt="" className="object-cover w-[20px] h-[16px] mx-1"/>  </div> 
+                            <div className="flex flex-row justify-center items-center "> {piloto.IDjuego}  <img src={piloto.nacionalidad} alt="" className="object-cover w-[16px] h-[10px] sm:w-[20px] sm:h-[16px] mx-1"/>  </div> 
                             <span className="text-[10px] p-0 m-0">
                               {piloto.escuderia}
                             </span>

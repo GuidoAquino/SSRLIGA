@@ -8,6 +8,7 @@ import Footer from "@/Components/Molecules/Footer";
 import Categorieslist from "@/Components/Molecules/Categorieslist";
 import FormularioInscripcion from "@/Components/Atoms/FormularioInscripcion";
 import Tablaposiciones from "@/Components/Atoms/Tablaposiciones";
+import Modal from "@/Components/Atoms/Modal";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -34,6 +35,7 @@ export default function Home() {
         <FormularioInscripcion />
       </section>
       <Footer />
+      <Modal/>
 
     </>
   );

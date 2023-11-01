@@ -613,7 +613,8 @@
       "bandera": "https://img.freepik.com/fotos-premium/bandera-belgica-textura-tela-ondeando_7594-73.jpg",
       "horario": "22:15 Arg",
       "fecha": "27/10",
-      "sprint": "NO"
+      "sprint": "NO",
+      "resultado":"https://i.postimg.cc/gkGXkbtX/859a6a68-1f39-4946-b1ac-76dc31ef76de.jpg"
     },
     {
       "id": "2",
@@ -622,6 +623,8 @@
       "horario": "22:15 Arg",
       "fecha": "03/11",
       "sprint": "NO"
+      ,
+      "resultado":"https://i.postimg.cc/gkGXkbtX/859a6a68-1f39-4946-b1ac-76dc31ef76de.jpg"
     },
     {
       "id": "3",
@@ -630,6 +633,8 @@
       "horario": "22:15 Arg",
       "fecha": "10/11",
       "sprint": "NO"
+      ,
+      "resultado":""
     },
     {
       "id": "4",
@@ -638,6 +643,8 @@
       "horario": "22:15 Arg",
       "fecha": "17/11",
       "sprint": "SI "
+      ,
+      "resultado":""
     },
     {
       "id": "5",
@@ -646,6 +653,8 @@
       "horario": "22:15 Arg",
       "fecha": "24/11",
       "sprint": "NO"
+      ,
+      "resultado":""
     },
     {
       "id": "6",
@@ -654,6 +663,8 @@
       "horario": "22:15 Arg",
       "fecha": "01/12",
       "sprint": "NO"
+      ,
+      "resultado":""
     },
     {
       "id": "7",
@@ -662,6 +673,8 @@
       "horario": "22:15 Arg",
       "fecha": "08/12",
       "sprint": "SI"
+      ,
+      "resultado":""
     },
     {
       "id": "8",
@@ -670,6 +683,8 @@
       "horario": "22:15 Arg",
       "fecha": "15/12",
       "sprint": "NO"
+      ,
+      "resultado":""
     },
     {
       "id": "9",
@@ -678,6 +693,8 @@
       "horario": "22:15 Arg",
       "fecha": "22/12",
       "sprint": "NO"
+      ,
+      "resultado":""
     },
     {
       "id": "10",
@@ -686,6 +703,8 @@
       "horario": "22:15 Arg",
       "fecha": "29/12",
       "sprint": "SI"
+      ,
+      "resultado":""
     },
     {
       "id": "11",
@@ -694,6 +713,8 @@
       "horario": "22:15 Arg",
       "fecha": "05/01",
       "sprint": "NO"
+      ,
+      "resultado":""
     },
     {
       "id": "12",
@@ -701,7 +722,8 @@
       "bandera": "https://t2.uc.ltmcdn.com/es/posts/1/2/5/significado_de_la_bandera_y_escudo_de_brasil_49521_orig.jpg",
       "horario": "22:15 Arg",
       "fecha": "12/01",
-      "sprint": "NO"
+      "sprint": "NO",
+      "resultado":""
     }
   ]
 }
