@@ -16,7 +16,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
 
       
     },
@@ -36,7 +37,9 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
+      
     }
     ,
     {
@@ -44,7 +47,7 @@
       "IDjuego": "nicoPRO_JSQ",
       "plataforma": "PC",
       "escuderia": "Red Bull",
-      "escuderiaimg": "https://brandlogos.net/wp-content/uploads/2022/05/red_bull_racing-logo-brandlogos.net_.png",
+      "escuderiaimg": "https://logos-world.net/wp-content/uploads/2020/11/Red-Bull-Logo.png",
       "puntos": 0,
       "primeraposicion": 0,
       "segundaposicion": 0,
@@ -55,7 +58,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
     }
     ,
     {
@@ -63,7 +67,7 @@
       "IDjuego": "VENOMscorpio_JSQ",
       "plataforma": "PC",
       "escuderia": "Red Bull",
-      "escuderiaimg": "https://brandlogos.net/wp-content/uploads/2022/05/red_bull_racing-logo-brandlogos.net_.png",
+      "escuderiaimg": "https://logos-world.net/wp-content/uploads/2020/11/Red-Bull-Logo.png",
       "puntos": 0,
       "primeraposicion": 0,
       "segundaposicion": 0,
@@ -74,7 +78,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
     }
     ,
 
@@ -94,7 +99,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png"
     }
     ,
     {
@@ -113,7 +119,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
     }
     ,
 
@@ -133,7 +140,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
     }
     ,
     {
@@ -152,14 +160,15 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"
     }
     ,
     {
       "nombreyapellido": "Luciano_M12_JSQ",
       "IDjuego": "Luciano_M12_JSQ",
       "plataforma": "PS4",
-      "escuderiaimg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
+      "escuderiaimg": "https://i.postimg.cc/FRkXmwmY/asdasw.png",
       "escuderia": "Alfa Romeo",
       "puntos": 15,
       "primeraposicion": 0,
@@ -171,7 +180,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
     }
     ,
 
@@ -179,7 +189,7 @@
       "nombreyapellido": "LH_savaresse_Jr",
       "IDjuego": "LH_savaresse_Jr",
       "plataforma": "PS4",
-      "escuderiaimg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
+      "escuderiaimg": "https://i.postimg.cc/FRkXmwmY/asdasw.png",
       "escuderia": "Alfa Romeo",
       "puntos": 0,
       "primeraposicion": 0,
@@ -191,7 +201,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
     }
     ,
 
@@ -199,7 +210,7 @@
       "nombreyapellido": "Juan Ildro",
       "IDjuego": "SLA_KHammet",
       "plataforma": "PC",
-      "escuderiaimg": "https://www.carlogos.org/car-logos/aston-martin-logo.png",
+      "escuderiaimg": "https://i.postimg.cc/fbBXf9Q7/asdasw.png",
       "escuderia": "Aston Martin",
       "puntos": 12,
       "primeraposicion": 0,
@@ -211,14 +222,15 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
     }
     ,
     {
       "nombreyapellido": "ARS_MAUBO",
       "IDjuego": "ARS_MAUBO",
       "plataforma": "PS4",
-      "escuderiaimg": "https://www.carlogos.org/car-logos/aston-martin-logo.png",
+      "escuderiaimg": "https://i.postimg.cc/fbBXf9Q7/asdasw.png",
       "escuderia": "Aston Martin",
       "puntos": 0,
       "primeraposicion": 0,
@@ -230,7 +242,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
     }
     ,
 
@@ -250,7 +263,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
     }
     ,
     {
@@ -269,14 +283,15 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
     }
     ,
     {
       "nombreyapellido": "NicoHans",
       "IDjuego": "NicoHans",
       "plataforma": "PS4",
-      "escuderiaimg": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Logoalpine2017.png",
+      "escuderiaimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logoalpine2017.png/800px-Logoalpine2017.png",
       "escuderia": "Alpine",
       "puntos": 8,
       "primeraposicion": 0,
@@ -288,14 +303,15 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
     }
     ,
     {
       "nombreyapellido": "gtwars579",
       "IDjuego": "gtwars579_JSQ",
       "plataforma": "PS4",
-      "escuderiaimg": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Logoalpine2017.png",
+      "escuderiaimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logoalpine2017.png/800px-Logoalpine2017.png",
       "escuderia": "Alpine",
       "puntos": 0,
       "primeraposicion": 0,
@@ -307,7 +323,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
     }
     ,
     {
@@ -326,7 +343,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
     }
     ,
     {
@@ -345,7 +363,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
     }
     ,
 
@@ -353,7 +372,7 @@
       "nombreyapellido": "CVA_RodriSivori",
       "IDjuego": "CVA_RodriSivori",
       "plataforma": "PC",
-      "escuderiaimg": "https://logodownload.org/wp-content/uploads/2022/03/alphatauri-logo-0.png",
+      "escuderiaimg": "https://i.postimg.cc/ZqMnqFhQ/asdasw.png",
       "escuderia": "Alpha Tauri",
       "puntos": 6,
       "primeraposicion": 0,
@@ -365,14 +384,15 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
     }
     ,
     {
       "nombreyapellido": "porche-cabal",
       "IDjuego": "porche-cabal",
       "plataforma": "PS4",
-      "escuderiaimg": "https://logodownload.org/wp-content/uploads/2022/03/alphatauri-logo-0.png",
+      "escuderiaimg": "https://i.postimg.cc/ZqMnqFhQ/asdasw.png",
       "escuderia": "Alpha Tauri",
       "puntos": 0,
       "primeraposicion": 0,
@@ -384,14 +404,15 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
     }
     ,
     {
       "nombreyapellido": "NicolasBoffano",
       "IDjuego": "NicolasBoffano",
       "plataforma": "PS4",
-      "escuderiaimg": "",
+      "escuderiaimg": "https://i.postimg.cc/pdHbJmJd/ssrlogovectorizado1.png",
       "escuderia": "Reserva",
       "puntos": 10,
       "primeraposicion": 0,
@@ -403,14 +424,15 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://us.123rf.com/450wm/noche/noche1506/noche150600401/40671255-bandera-reflexi%C3%B3n-uruguay.jpg"
     }
     ,
     {
       "nombreyapellido": "Sevenn_7",
       "IDjuego": "Sevenn_7",
       "plataforma": "PS4",
-      "escuderiaimg": "",
+      "escuderiaimg": "https://i.postimg.cc/pdHbJmJd/ssrlogovectorizado1.png",
       "escuderia": "Reserva",
       "puntos": 4,
       "primeraposicion": 0,
@@ -422,14 +444,15 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png"
     }
     ,
     {
       "nombreyapellido": "LATAM_GALIO30",
       "IDjuego": "LATAM_GALIO30",
       "plataforma": "PS4",
-      "escuderiaimg": "",
+      "escuderiaimg": "https://i.postimg.cc/pdHbJmJd/ssrlogovectorizado1.png",
       "escuderia": "Reserva",
       "puntos": 0,
       "primeraposicion": 0,
@@ -441,14 +464,15 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
     }
     ,
     {
       "nombreyapellido": "And9118",
       "IDjuego": "And9118",
       "plataforma": "PS4",
-      "escuderiaimg": "",
+      "escuderiaimg": "https://i.postimg.cc/pdHbJmJd/ssrlogovectorizado1.png",
       "escuderia": "Reserva",
       "puntos": 0,
       "primeraposicion": 0,
@@ -460,7 +484,8 @@
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
-      "estado": true
+      "estado": true,
+      "nacionalidad":"https://img.freepik.com/fotos-premium/bandera-colombiana-colombia_469558-1756.jpg"
 
     }
     
@@ -493,7 +518,7 @@
     },
     {
       "escuderia": "Red Bull",
-      "escuderiaimg": "https://brandlogos.net/wp-content/uploads/2022/05/red_bull_racing-logo-brandlogos.net_.png",
+      "escuderiaimg": "https://logos-world.net/wp-content/uploads/2020/11/Red-Bull-Logo.png",
       "puntos": 0,
       "liga": "PRO",
       "temporada": 10,
@@ -504,7 +529,7 @@
     },
     {
       "escuderia": "Alfa Romeo",
-      "escuderiaimg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4143.png",
+      "escuderiaimg": "https://i.postimg.cc/FRkXmwmY/asdasw.png",
       "puntos": 0,
       "liga": "PRO",
       "temporada": 10,
@@ -515,7 +540,7 @@
     },
     {
       "escuderia": "Alpha Tauri",
-      "escuderiaimg": "https://logodownload.org/wp-content/uploads/2022/03/alphatauri-logo-0.png",
+      "escuderiaimg": "https://i.postimg.cc/ZqMnqFhQ/asdasw.png",
       "puntos": 0,
       "liga": "PRO",
       "temporada": 10,
@@ -526,7 +551,7 @@
     },
     {
       "escuderia": "Alpine",
-      "escuderiaimg": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Logoalpine2017.png",
+      "escuderiaimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logoalpine2017.png/800px-Logoalpine2017.png",
       "puntos": 0,
       "liga": "PRO",
       "temporada": 10,
@@ -537,7 +562,7 @@
     },
     {
       "escuderia": "Aston Martin",
-      "escuderiaimg": "https://www.carlogos.org/car-logos/aston-martin-logo.png",
+      "escuderiaimg": "https://i.postimg.cc/fbBXf9Q7/asdasw.png",
       "puntos": 0,
       "liga": "PRO",
       "temporada": 10,
