@@ -35,8 +35,7 @@ export default function Home() {
         <FormularioInscripcion />
       </section>
       <Footer />
-      <Modal/>
-
+  
     </>
   );
 }
