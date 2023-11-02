@@ -11,6 +11,7 @@ const Calendario = () => {
 
 
   const calendario = [...data.calendario];
+  
   return (
     <>
     {calendario.map((fecha, index) => (
@@ -25,7 +26,11 @@ const Calendario = () => {
           <span>{fecha.fecha}</span>
           <span>{fecha.horario} </span>
           <span className="text-red-500 mb-2">Sprint {fecha.sprint} </span>
-          <Modal />
+           
+            
+            <Modal resultado= {fecha.resultado} />
+          
+        
                  
           
         </div>

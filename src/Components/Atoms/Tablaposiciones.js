@@ -82,6 +82,7 @@ const Tablaposiciones = () => {
 
                   <tbody className="w-[50%] h-[50px] border-collapse    ">
                     <tr className="text-center  flex flex-row justify-center items-center text-[8px] sm:text-[16px]" />
+                    
                     {pilotos.map((piloto, index) => (
                       <tr
                         key={index}
@@ -119,6 +120,8 @@ const Tablaposiciones = () => {
                         <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{piloto.eventos}</span></td>
                       </tr>
                     ))}
+
+
                   </tbody>
                 </table>
               </div>

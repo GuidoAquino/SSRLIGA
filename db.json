@@ -17,9 +17,7 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
-
-      
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
     },
     {
       "nombreyapellido": "LATAM_Frimbz",
@@ -38,10 +36,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
-      
-    }
-    ,
+      "nacionalidad": "https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
+    },
     {
       "nombreyapellido": "nicoPRO_JSQ",
       "IDjuego": "nicoPRO_JSQ",
@@ -59,9 +55,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
     {
       "nombreyapellido": "VENOMscorpio_JSQ",
       "IDjuego": "VENOMscorpio_JSQ",
@@ -79,10 +74,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
-    }
-    ,
-
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
     {
       "nombreyapellido": "XxAlexX_GAMER",
       "IDjuego": "XxAlexX_GAMER",
@@ -100,9 +93,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png"
+    },
     {
       "nombreyapellido": "f3R_s7_",
       "IDjuego": "f3R_s7_",
@@ -120,10 +112,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
-    }
-    ,
-
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
+    },
     {
       "nombreyapellido": "SLA_Retro",
       "IDjuego": "SLA_Retro",
@@ -141,9 +131,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
     {
       "nombreyapellido": "FC_Danger_F1",
       "IDjuego": "FC_Danger_F1",
@@ -161,9 +150,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"
+    },
     {
       "nombreyapellido": "Luciano_M12_JSQ",
       "IDjuego": "Luciano_M12_JSQ",
@@ -181,10 +169,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
-    }
-    ,
-
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
     {
       "nombreyapellido": "LH_savaresse_Jr",
       "IDjuego": "LH_savaresse_Jr",
@@ -202,10 +188,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
-    }
-    ,
-
+      "nacionalidad": "https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
+    },
     {
       "nombreyapellido": "Juan Ildro",
       "IDjuego": "SLA_KHammet",
@@ -223,9 +207,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
     {
       "nombreyapellido": "ARS_MAUBO",
       "IDjuego": "ARS_MAUBO",
@@ -243,10 +226,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
-    }
-    ,
-
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
+    },
     {
       "nombreyapellido": "TF1--ARRIETA99",
       "IDjuego": "TF1--ARRIETA99",
@@ -264,9 +245,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
-    }
-    ,
+      "nacionalidad": "https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
+    },
     {
       "nombreyapellido": "Kailex_JSQ",
       "IDjuego": "Kailex_JSQ",
@@ -284,9 +264,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
     {
       "nombreyapellido": "NicoHans",
       "IDjuego": "NicoHans",
@@ -304,9 +283,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
     {
       "nombreyapellido": "gtwars579",
       "IDjuego": "gtwars579_JSQ",
@@ -324,9 +302,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
     {
       "nombreyapellido": "Luis Huayamave",
       "IDjuego": "SKY_Huayamave",
@@ -344,9 +321,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
+    },
     {
       "nombreyapellido": "Luis Burgos",
       "IDjuego": "NSRL_BanzStex",
@@ -364,10 +340,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
-    }
-    ,
-
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
+    },
     {
       "nombreyapellido": "CVA_RodriSivori",
       "IDjuego": "CVA_RodriSivori",
@@ -385,9 +359,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
-    }
-    ,
+      "nacionalidad": "https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
+    },
     {
       "nombreyapellido": "porche-cabal",
       "IDjuego": "porche-cabal",
@@ -405,9 +378,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
+    },
     {
       "nombreyapellido": "NicolasBoffano",
       "IDjuego": "NicolasBoffano",
@@ -425,9 +397,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://us.123rf.com/450wm/noche/noche1506/noche150600401/40671255-bandera-reflexi%C3%B3n-uruguay.jpg"
-    }
-    ,
+      "nacionalidad": "https://us.123rf.com/450wm/noche/noche1506/noche150600401/40671255-bandera-reflexi%C3%B3n-uruguay.jpg"
+    },
     {
       "nombreyapellido": "Sevenn_7",
       "IDjuego": "Sevenn_7",
@@ -445,9 +416,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png"
-    }
-    ,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png"
+    },
     {
       "nombreyapellido": "LATAM_GALIO30",
       "IDjuego": "LATAM_GALIO30",
@@ -465,9 +435,8 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
-    }
-    ,
+      "nacionalidad": "https://ichef.bbci.co.uk/news/640/cpsprodpb/D348/production/_95588045_178392703.jpg"
+    },
     {
       "nombreyapellido": "And9118",
       "IDjuego": "And9118",
@@ -485,13 +454,9 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad":"https://img.freepik.com/fotos-premium/bandera-colombiana-colombia_469558-1756.jpg"
-
+      "nacionalidad": "https://img.freepik.com/fotos-premium/bandera-colombiana-colombia_469558-1756.jpg"
     }
-    
   ],
-
-  
 
   "escuderias": [
     {
@@ -604,7 +569,6 @@
       "piloto1puntos": 0,
       "piloto2puntos": 0
     }
-   
   ],
   "calendario": [
     {
@@ -614,7 +578,7 @@
       "horario": "22:15 Arg",
       "fecha": "27/10",
       "sprint": "NO",
-      "resultado":"https://i.postimg.cc/gkGXkbtX/859a6a68-1f39-4946-b1ac-76dc31ef76de.jpg"
+      "resultado": "https://i.postimg.cc/gkGXkbtX/859a6a68-1f39-4946-b1ac-76dc31ef76de.jpg"
     },
     {
       "id": "2",
@@ -622,9 +586,8 @@
       "bandera": "https://www.lifeder.com/wp-content/uploads/2019/02/bandera-de-Italia.jpg",
       "horario": "22:15 Arg",
       "fecha": "03/11",
-      "sprint": "NO"
-      ,
-      "resultado":"https://i.postimg.cc/gkGXkbtX/859a6a68-1f39-4946-b1ac-76dc31ef76de.jpg"
+      "sprint": "NO",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "3",
@@ -632,9 +595,8 @@
       "bandera": "https://t1.uc.ltmcdn.com/es/posts/6/1/8/significado_de_la_bandera_y_el_escudo_de_mexico_44816_orig.jpg",
       "horario": "22:15 Arg",
       "fecha": "10/11",
-      "sprint": "NO"
-      ,
-      "resultado":""
+      "sprint": "NO",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "4",
@@ -642,9 +604,8 @@
       "bandera": "https://img.freepik.com/vector-premium/bandera-austria-soplando-viento-parte-serie-austria-ondeando-bandera_126712-234.jpg",
       "horario": "22:15 Arg",
       "fecha": "17/11",
-      "sprint": "SI "
-      ,
-      "resultado":""
+      "sprint": "SI ",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "5",
@@ -652,9 +613,8 @@
       "bandera": "https://www.eluniversal.com.mx/resizer/FP0W27HcFDbsmjzzbZ6zmMGu6r0=/1100x666/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/G2VLASO5FBDVXB5P7EISQPOB3U.jpg",
       "horario": "22:15 Arg",
       "fecha": "24/11",
-      "sprint": "NO"
-      ,
-      "resultado":""
+      "sprint": "NO",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "6",
@@ -662,9 +622,8 @@
       "bandera": "https://img.freepik.com/vector-premium/bandera-arabia-saudita_230313-125.jpg",
       "horario": "22:15 Arg",
       "fecha": "01/12",
-      "sprint": "NO"
-      ,
-      "resultado":""
+      "sprint": "NO",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "7",
@@ -672,9 +631,8 @@
       "bandera": "https://img.freepik.com/vector-premium/diseno-bandera-australia-ondeando-bandera-australiana-hecha-tela-satinada-o-seda-ilustracion-vectorial_191567-673.jpg",
       "horario": "22:15 Arg",
       "fecha": "08/12",
-      "sprint": "SI"
-      ,
-      "resultado":""
+      "sprint": "SI",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "8",
@@ -682,9 +640,8 @@
       "bandera": "https://cdn.pixabay.com/photo/2016/06/15/23/24/singapore-1460154_1280.jpg",
       "horario": "22:15 Arg",
       "fecha": "15/12",
-      "sprint": "NO"
-      ,
-      "resultado":""
+      "sprint": "NO",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "9",
@@ -692,9 +649,8 @@
       "bandera": "https://static.vecteezy.com/system/resources/previews/001/228/894/non_2x/netherlands-3d-flag-vector.jpg",
       "horario": "22:15 Arg",
       "fecha": "22/12",
-      "sprint": "NO"
-      ,
-      "resultado":""
+      "sprint": "NO",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "10",
@@ -702,9 +658,8 @@
       "bandera": "https://img.freepik.com/vector-premium/vector-3d-bandera-japon-simbolo-nacional-japones_8071-21864.jpg",
       "horario": "22:15 Arg",
       "fecha": "29/12",
-      "sprint": "SI"
-      ,
-      "resultado":""
+      "sprint": "SI",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "11",
@@ -712,9 +667,8 @@
       "bandera": "https://img.freepik.com/fotos-premium/concepto-china-bandera-republica-popular-china_158023-1113.jpg",
       "horario": "22:15 Arg",
       "fecha": "05/01",
-      "sprint": "NO"
-      ,
-      "resultado":""
+      "sprint": "NO",
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     },
     {
       "id": "12",
@@ -723,7 +677,7 @@
       "horario": "22:15 Arg",
       "fecha": "12/01",
       "sprint": "NO",
-      "resultado":""
+      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
     }
   ]
 }
