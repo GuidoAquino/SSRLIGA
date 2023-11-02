@@ -5,16 +5,7 @@ import React from "react";
 import { useState } from "react";
 
 const FormularioInscripcion = () => {
-  const [nomape, setNomape] = useState("");
-  const [usuarioid, setUsuarioid] = useState("");
-
-  const handleNomapeChange = (e) => {
-    setNomape(e.target.value);
-  };
-
-  const handleUsuarioidChange = (e) => {
-    setUsuarioid(e.target.value);
-  };
+ 
 
   return (
     <>
@@ -22,26 +13,39 @@ const FormularioInscripcion = () => {
         <form>
           <h3 className="text-white m-5 md:text-4xl">Completa los datos</h3>
 
-          <label htmlFor="nomape">
+          <div className="container ">
+            <div className="entryarea " >
+              <input type="text" required />
+              <div className="labelline">Nombre y Apellido</div>
+            </div>
+            <div className="entryarea " >
+              <input type="text" required />
+              <div className="labelline">ID PSN</div>
+            </div>
+          </div>
+
+          {/* <label htmlFor="nomape relative ">
             <input
+            
+
               className="w-[90%] mb-4 p-3 bg-transparent border-b-2 border-[#ca1b1e] outline-none "
               type="text"
               name="nomape"
-              placeholder={nomape ? "" : "Nombre y Apellido"}
-              value={nomape}
-              onChange={handleNomapeChange}
+              placeholder="Nombre y Apellido"
+              
+             
             />
+            
           </label>
           <label htmlFor="usuarioid">
             <input
               className="w-[90%] mb-4 p-3 bg-transparent border-b-2 border-[#ca1b1e] outline-none"
               type="text"
               name="usuarioid"
-              placeholder={usuarioid ? "" : "ID"}
-              value={usuarioid}
-              onChange={handleUsuarioidChange}
+              placeholder="ID PSN"
+          
             />
-          </label>
+          </label> */}
           <label
             htmlFor=""
             className="flex flex-col justify-center items-center"
