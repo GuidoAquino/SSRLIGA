@@ -6,13 +6,13 @@
       "plataforma": "PS4",
       "escuderia": "Ferrari",
       "escuderiaimg": "https://i.pinimg.com/originals/14/eb/e3/14ebe3da0146023a6038c176e6a7a9c6.png",
-      "puntos": 1,
+      "puntos": 5,
       "primeraposicion": 0,
       "segundaposicion": 0,
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -25,13 +25,13 @@
       "plataforma": "PS4",
       "escuderia": "Ferrari",
       "escuderiaimg": "https://i.pinimg.com/originals/14/eb/e3/14ebe3da0146023a6038c176e6a7a9c6.png",
-      "puntos": 18,
+      "puntos": 28,
       "primeraposicion": 0,
       "segundaposicion": 1,
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -44,13 +44,13 @@
       "plataforma": "PC",
       "escuderia": "Red Bull",
       "escuderiaimg": "https://logos-world.net/wp-content/uploads/2020/11/Red-Bull-Logo.png",
-      "puntos": 0,
-      "primeraposicion": 0,
+      "puntos": 25,
+      "primeraposicion": 1,
       "segundaposicion": 0,
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 0,
+      "eventos": 1,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -82,13 +82,13 @@
       "plataforma": "PC",
       "escuderiaimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mercedes-Benz_Star.svg/2048px-Mercedes-Benz_Star.svg.png",
       "escuderia": "Mercedes",
-      "puntos": 2,
+      "puntos": 3,
       "primeraposicion": 0,
       "segundaposicion": 0,
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -107,7 +107,7 @@
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 0,
+      "eventos": 1,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -158,13 +158,13 @@
       "plataforma": "PS4",
       "escuderiaimg": "https://i.postimg.cc/FRkXmwmY/asdasw.png",
       "escuderia": "Alfa Romeo",
-      "puntos": 15,
+      "puntos": 27,
       "primeraposicion": 0,
       "segundaposicion": 0,
       "terceraposicion": 1,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -183,7 +183,7 @@
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -196,13 +196,13 @@
       "plataforma": "PC",
       "escuderiaimg": "https://i.postimg.cc/fbBXf9Q7/asdasw.png",
       "escuderia": "Aston Martin",
-      "puntos": 12,
+      "puntos": 31,
       "primeraposicion": 0,
-      "segundaposicion": 0,
+      "segundaposicion": 1,
       "terceraposicion": 0,
       "pole": 0,
-      "vueltarapida": 0,
-      "eventos": 1,
+      "vueltarapida": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -234,13 +234,13 @@
       "plataforma": "PC",
       "escuderiaimg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4140.png",
       "escuderia": "McLaren",
-      "puntos": 27,
+      "puntos": 34,
       "primeraposicion": 1,
       "segundaposicion": 0,
       "terceraposicion": 0,
-      "pole": 1,
+      "pole": 2,
       "vueltarapida": 1,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -259,7 +259,7 @@
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -278,7 +278,7 @@
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -297,7 +297,7 @@
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -316,7 +316,7 @@
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -335,7 +335,7 @@
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 0,
+      "eventos": 1,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -354,7 +354,7 @@
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -405,13 +405,13 @@
       "plataforma": "PS4",
       "escuderiaimg": "https://i.postimg.cc/pdHbJmJd/ssrlogovectorizado1.png",
       "escuderia": "Reserva",
-      "puntos": 4,
+      "puntos": 12,
       "primeraposicion": 0,
       "segundaposicion": 0,
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -424,13 +424,13 @@
       "plataforma": "PS4",
       "escuderiaimg": "https://i.postimg.cc/pdHbJmJd/ssrlogovectorizado1.png",
       "escuderia": "Reserva",
-      "puntos": 0,
+      "puntos": 2,
       "primeraposicion": 0,
       "segundaposicion": 0,
       "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
-      "eventos": 1,
+      "eventos": 2,
       "puntoscarnet": 15,
       "liga": "PRO",
       "temporada": 13,
@@ -455,6 +455,25 @@
       "temporada": 13,
       "estado": true,
       "nacionalidad": "https://img.freepik.com/fotos-premium/bandera-colombiana-colombia_469558-1756.jpg"
+    },
+    {
+      "nombreyapellido": "Lucas_Lag",
+      "IDjuego": "Lucas_Lag",
+      "plataforma": "PS4",
+      "escuderiaimg": "https://i.postimg.cc/pdHbJmJd/ssrlogovectorizado1.png",
+      "escuderia": "Reserva",
+      "puntos": 12,
+      "primeraposicion": 0,
+      "segundaposicion": 0,
+      "terceraposicion": 1,
+      "pole": 0,
+      "vueltarapida": 0,
+      "eventos": 1,
+      "puntoscarnet": 15,
+      "liga": "PRO",
+      "temporada": 13,
+      "estado": true,
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
     }
   ],
 
@@ -467,8 +486,8 @@
       "temporada": 10,
       "piloto1": "LATAM_JUAN66",
       "piloto2": "LATAM_Frimbz",
-      "piloto1puntos": 1,
-      "piloto2puntos": 18
+      "piloto1puntos": 5,
+      "piloto2puntos": 28
     },
     {
       "escuderia": "Mercedes",
@@ -478,7 +497,7 @@
       "temporada": 10,
       "piloto1": "XxAlexX_GAMER",
       "piloto2": "f3R_s7_",
-      "piloto1puntos": 2,
+      "piloto1puntos": 3,
       "piloto2puntos": 0
     },
     {
@@ -489,7 +508,7 @@
       "temporada": 10,
       "piloto1": "nicoPRO_JSQ",
       "piloto2": "VENOMscorpio_JSQ",
-      "piloto1puntos": 0,
+      "piloto1puntos": 25,
       "piloto2puntos": 0
     },
     {
@@ -500,7 +519,7 @@
       "temporada": 10,
       "piloto1": "Luciano_M12_JSQ",
       "piloto2": "LH_savaresse_Jr",
-      "piloto1puntos": 15,
+      "piloto1puntos": 27,
       "piloto2puntos": 0
     },
     {
@@ -533,7 +552,7 @@
       "temporada": 10,
       "piloto1": "SLA_KHammet",
       "piloto2": "ARS_MAUBO",
-      "piloto1puntos": 12,
+      "piloto1puntos": 31,
       "piloto2puntos": 0
     },
     {
@@ -555,7 +574,7 @@
       "temporada": 10,
       "piloto1": "TF1--ARRIETA99",
       "piloto2": "Kailex_JSQ",
-      "piloto1puntos": 27,
+      "piloto1puntos": 34,
       "piloto2puntos": 0
     },
     {
@@ -678,6 +697,159 @@
       "fecha": "12/01",
       "sprint": "NO",
       "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
+    }
+  ],
+
+  "victorias": [
+    {
+      "piloto": "Diegozc1989",
+      "victorias": "34",
+      "nacionalidad": "https://i.pinimg.com/564x/5c/c5/f4/5cc5f4c2ca983a3e982eb68d01813a94.jpg"
+    },
+    {
+      "piloto": "AR9_BARBEITO",
+      "victorias": "27",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "BanzStex005",
+      "victorias": "9",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
+    },
+    {
+      "piloto": "NicoHans_JSQ",
+      "victorias": "9",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
+    {
+      "piloto": "Aaime",
+      "victorias": "5",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "BliTz_MC",
+      "victorias": "5",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "SF1A_KENO84",
+      "victorias": "4",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
+    },
+    {
+      "piloto": "ElKailex",
+      "victorias": "4",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
+    {
+      "piloto": "NicoBertolez",
+      "victorias": "4",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "UGA321",
+      "victorias": "3",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
+    },
+    {
+      "piloto": "SSR_Tomate",
+      "victorias": "3",
+      "nacionalidad": "https://us.123rf.com/450wm/noche/noche1506/noche150600401/40671255-bandera-reflexi%C3%B3n-uruguay.jpg"
+    },
+    {
+      "piloto": "diFelipegarcia",
+      "victorias": "3",
+      "nacionalidad": "https://img.freepik.com/fotos-premium/bandera-colombiana-colombia_469558-1756.jpg"
+    },
+    {
+      "piloto": "Ruffonico",
+      "victorias": "2",
+      "nacionalidad": "https://us.123rf.com/450wm/noche/noche1506/noche150600401/40671255-bandera-reflexi%C3%B3n-uruguay.jpg"
+    },
+    {
+      "piloto": "MatiCunial",
+      "victorias": "2",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "Benjamin",
+      "victorias": "2",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "Huayamave",
+      "victorias": "2",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
+    },
+    {
+      "piloto": "TF1-LESZCZUK",
+      "victorias": "2",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "Diegogelo",
+      "victorias": "2",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "TF1-LECLERC16",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "LALITTOS",
+      "victorias": "1",
+      "nacionalidad": "https://us.123rf.com/450wm/noche/noche1506/noche150600401/40671255-bandera-reflexi%C3%B3n-uruguay.jpg"
+    },
+    {
+      "piloto": "gasto05",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "BattleAxe9906",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "FerRom10",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
+    },
+    {
+      "piloto": "tengogtaiv",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "And9118",
+      "victorias": "1",
+      "nacionalidad": "https://img.freepik.com/fotos-premium/bandera-colombiana-colombia_469558-1756.jpg"
+    },
+    {
+      "piloto": "duguezvs",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bandera_de_Bolivia_%28Guerra%29.svg/1200px-Bandera_de_Bolivia_%28Guerra%29.svg.png"
+    },
+    {
+      "piloto": "FabianR214",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "Parzival",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+    },
+    {
+      "piloto": "TF1-ARRIETA99",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+      "piloto": "nicoPRO_JSQ",
+      "victorias": "1",
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
     }
   ]
 }
