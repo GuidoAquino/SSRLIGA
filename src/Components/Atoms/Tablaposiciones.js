@@ -11,6 +11,7 @@ const Tablaposiciones = () => {
 
   const pilotos = [...data.pilotos];
   const escuderias = [...data.escuderias];
+  const puntosdecarnet = [...data.puntosdecarnet];
 
   pilotos.sort((a, b) => b.puntos - a.puntos);
   escuderias.sort((a, b) => (b.piloto1puntos + b.piloto2puntos) - (a.piloto1puntos + a.piloto2puntos));
@@ -41,9 +42,20 @@ const Tablaposiciones = () => {
               >
                 Campeonato Constructores
               </h2>
+              <h2
+                className={`text-[#ca1b1e] px-3 py-2 rounded-lg m-[10px] cursor-pointer border-2 border-[#ca1b1e] hover:border-0 hover:bg-gradient-to-t from-[#000000] to-[#373737] hover:text-white ${
+                  tablaActiva === "puntoscarnet"
+                    ? "bg-gradient-to-t from-[#000000] to-[#373737] text-white"
+                    : ""
+                }`}
+                onClick={() => manejarClicEnTabla("puntoscarnet")}
+              >
+                Puntos Carnet
+              </h2>
             </div>
 
             <div className="tabla  rounded-lg  sm:row-span-5 sm:col-span-7 flex justify-center items-center bggris">
+             
               <div
                 className={`tabla row-span-5 col-span-7 w-[90%] h-[80%] sm:h-[100%] flex justify-center items-center bggris ${
                   tablaActiva === "pilotos" ? "" : "hidden"
@@ -179,6 +191,127 @@ const Tablaposiciones = () => {
                 </table>
                 
               </div>
+
+
+
+
+
+
+
+
+              {/* ---------------------- */}
+
+
+
+
+
+              <div
+                className={`tabla row-span-5 col-span-7 w-[90%] h-[80%] sm:h-[100%] flex justify-center items-center bggris ${
+                  tablaActiva === "puntoscarnet" ? "" : "hidden"
+                }`}
+              >
+                <table className=" puntoscarnet w-[200%] md:w-[90%] h-[80%] table-caption md:table mt-[10px] overflow-scroll">
+                  <thead >
+                    <tr>
+                                        
+                      <th className="text-start border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Piloto
+                      </th>
+                      
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                        Puntos
+                      </th>
+                      
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Bel
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Imo
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Mex
+                      </th>
+                       <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Aus
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Qatar
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Ara
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Aus
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Sin
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Hol
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Jap
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Chi
+                      </th>
+                      <th className="text-center border-b-[1px] border-[#848484]  text-[7px] sm:text-[12px] md:text-[16px]  bg-[#ca1b1e]">
+                      Bra
+                      </th>
+                     
+                    </tr>
+                  </thead>
+
+                  <tbody className="w-[50%] h-[50px] border-collapse    ">
+                    <tr className="text-center  flex flex-row justify-center items-center text-[8px] sm:text-[16px]" />
+                    
+                    {puntosdecarnet.map((puntocarnet2, index) => (
+                      <tr
+                        key={index}
+                        className="text-center border-b-[1px] border-[#848484] text-[8px] sm:text-[16px]"
+                      >
+                       
+                        <td className="flex flex-row flex-wrap justify-start items-center ">
+                          <img
+                            className="md:mr-2 scale-[1.7]   flex-row justify-center items-center hidden md:flex "
+                            src={puntocarnet2.escuderiaimg } 
+                          />
+                          <div
+                            className="flex
+                        flex-col justify-center items-start text-[10px] sm:text-[16px]"
+                          >
+                            <div className="flex flex-row justify-center items-center "> {puntocarnet2.IDjuego}  <img src={puntocarnet2.nacionalidad} alt="" className="object-cover w-[16px] h-[10px] sm:w-[20px] sm:h-[16px] mx-1"/>  </div> 
+                            <span className="text-[10px] p-0 m-0">
+                              {puntocarnet2.escuderia}
+                            </span>
+                          </div>
+                        </td>
+
+                        <td className="flex justify-center items-center "></td>
+                        <td>{puntocarnet2.puntosdecarnet}</td>
+                        
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.belgica}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.imola}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.mexico}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.austria}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.qatar}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.arabia}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.australia}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.singapur}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.paisesbajos}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.japon}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.china}</span></td>
+                        <td><span className="text-white mr-1 border-2 border-stone-600 px-2  h-full">{puntocarnet2.brasil}</span></td>
+                      </tr>
+                    ))}
+
+
+                  </tbody>
+                </table>
+              </div>
+
+
+              
             </div>
           </div>
         </div>

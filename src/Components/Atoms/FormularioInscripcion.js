@@ -16,44 +16,23 @@ const FormularioInscripcion = () => {
           <div className="container ">
             <div className="entryarea " >
               <input type="text" required />
-              <div className="labelline">Nombre y Apellido</div>
+              <div className="labelline w-[90%]  p-3 bg-transparent ">Nombre y Apellido</div>
             </div>
             <div className="entryarea " >
               <input type="text" required />
-              <div className="labelline">ID PSN</div>
+              <div className="labelline w-[90%]  p-3 bg-transparent ">ID PSN</div>
             </div>
           </div>
-
-          {/* <label htmlFor="nomape relative ">
-            <input
-            
-
-              className="w-[90%] mb-4 p-3 bg-transparent border-b-2 border-[#ca1b1e] outline-none "
-              type="text"
-              name="nomape"
-              placeholder="Nombre y Apellido"
-              
-             
-            />
-            
-          </label>
-          <label htmlFor="usuarioid">
-            <input
-              className="w-[90%] mb-4 p-3 bg-transparent border-b-2 border-[#ca1b1e] outline-none"
-              type="text"
-              name="usuarioid"
-              placeholder="ID PSN"
           
-            />
-          </label> */}
+         
           <label
-            htmlFor=""
+            htmlFor="plataforma"
             className="flex flex-col justify-center items-center"
-          >
+          ></label>
             <select
               name="plataforma"
               id="plataforma"
-              className="w-[90%] mb-4 p-3 bg-transparent border-b-2 border-[#ca1b1e] outline-none formoption"
+              className=" w-[90%] mb-4 py-3 px-2 bg-transparent border-b-2 border-[#ca1b1e] outline-none formoption"
             >
               <option value="seleccionar" className="text-black">
                 Seleccionar Plataforma
@@ -65,11 +44,14 @@ const FormularioInscripcion = () => {
                 PS4
               </option>
             </select>
-
+            <label
+            htmlFor="ligainteresada"
+            className="flex flex-col justify-center items-center"
+          ></label>
             <select
               name="ligainteresada"
               id="ligainteresada"
-              className="w-[90%] mb-4 p-3 bg-transparent border-b-2 border-[#ca1b1e]   outline-none formoption"
+              className="w-[90%] mb-4 py-3 px-2 bg-transparent border-b-2 border-[#ca1b1e]   outline-none formoption"
             >
               <option value="ligainteresada " className="text-black">
                 Seleccionar Liga
@@ -78,7 +60,7 @@ const FormularioInscripcion = () => {
                 Cat PRO * SIN AYUDAS *
               </option>
             </select>
-          </label>
+          
 
           <button
             type="submit"

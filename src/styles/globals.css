@@ -113,14 +113,14 @@ input{
 }
 
 .labelline{
-  top:0px;
-  left: 45px;
+  text-align: left;
   
   position: absolute;
   font-size: 0.8rem;
   color:white;
   
-  transition:  0.2 ease;
+  
+  transition:  0.3s ease;
 }
 
 input:focus, input:valid{
@@ -135,8 +135,12 @@ input:valid + .labelline{
   
   line-height: 30px;
   
-  transform: translate(-5px,-10px) scale(0.88);
+  transform: translate(-35px,-20px) scale(0.88);
   z-index:1111
+}
+
+option {
+  padding: 50px;
 }
 
 
