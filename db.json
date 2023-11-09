@@ -324,15 +324,15 @@
       "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
     },
     {
-      "nombreyapellido": "Luis Burgos",
-      "IDjuego": "NSRL_BanzStex",
+      "nombreyapellido": "Lucas_Lag",
+      "IDjuego": "Lucas_Lag",
       "plataforma": "PS4",
       "escuderiaimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_Williams_F1.png/317px-Logo_Williams_F1.png",
       "escuderia": "Williams",
-      "puntos": 0,
+      "puntos": 12,
       "primeraposicion": 0,
       "segundaposicion": 0,
-      "terceraposicion": 0,
+      "terceraposicion": 1,
       "pole": 0,
       "vueltarapida": 0,
       "eventos": 1,
@@ -340,8 +340,10 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
     },
+
+    
     {
       "nombreyapellido": "CVA_RodriSivori",
       "IDjuego": "CVA_RodriSivori",
@@ -457,15 +459,15 @@
       "nacionalidad": "https://img.freepik.com/fotos-premium/bandera-colombiana-colombia_469558-1756.jpg"
     },
     {
-      "nombreyapellido": "Lucas_Lag",
-      "IDjuego": "Lucas_Lag",
+      "nombreyapellido": "Luis Burgos",
+      "IDjuego": "NSRL_BanzStex",
       "plataforma": "PS4",
       "escuderiaimg": "https://i.postimg.cc/pdHbJmJd/ssrlogovectorizado1.png",
       "escuderia": "Reserva",
-      "puntos": 12,
+      "puntos": 0,
       "primeraposicion": 0,
       "segundaposicion": 0,
-      "terceraposicion": 1,
+      "terceraposicion": 0,
       "pole": 0,
       "vueltarapida": 0,
       "eventos": 1,
@@ -473,7 +475,7 @@
       "liga": "PRO",
       "temporada": 13,
       "estado": true,
-      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+      "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
     }
   ],
 
@@ -584,9 +586,9 @@
       "liga": "PRO",
       "temporada": 10,
       "piloto1": "SKY_Huayamave",
-      "piloto2": "NSRL_BanzStex",
+      "piloto2": "Lucas_Lag",
       "piloto1puntos": 0,
-      "piloto2puntos": 0
+      "piloto2puntos": 12
     }
   ],
   "calendario": [
@@ -606,7 +608,7 @@
       "horario": "22:15 Arg",
       "fecha": "03/11",
       "sprint": "NO",
-      "resultado": "https://i.postimg.cc/rsHKcTM0/ASDASDSSWSD.png"
+      "resultado": "https://i.postimg.cc/xCH65TXJ/859a6a68-1f39-4946-b1ac-76dc31ef76de.jpg"
     },
     {
       "id": "3",
@@ -1248,8 +1250,8 @@
       "nacionalidad": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png"
     },
     {
-      "nombreyapellido": "Luis Burgos",
-      "IDjuego": "NSRL_BanzStex",
+      "nombreyapellido": "Lucas_Lag",
+      "IDjuego": "Lucas_Lag",
       "plataforma": "PS4",
       "escuderiaimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_Williams_F1.png/317px-Logo_Williams_F1.png",
       "escuderia": "Williams",
@@ -1409,8 +1411,8 @@
       "nacionalidad": "https://img.freepik.com/fotos-premium/bandera-colombiana-colombia_469558-1756.jpg"
     },
     {
-      "nombreyapellido": "Lucas_Lag",
-      "IDjuego": "Lucas_Lag",
+      "nombreyapellido": "Luis Burgos",
+      "IDjuego": "NSRL_BanzStex",
       "plataforma": "PS4",
       "escuderiaimg": "https://i.postimg.cc/pdHbJmJd/ssrlogovectorizado1.png",
       "escuderia": "Reserva",
